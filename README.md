@@ -1,6 +1,19 @@
 # 🔐 Secure AWS S3 with IAM Policies and Encryption
 
-This project demonstrates how to securely configure an Amazon S3 bucket using IAM policies, encryption, and access restrictions, as part of a cloud security task for CodTech Internship.
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*: SIDDHESH SHAJITH PALLOR
+
+*INTERN ID*: CT04DK78
+
+*DOMAIN*: CLOUD COMPUTING
+
+*DURATION*: 4 WEEEKS
+
+*MENTOR*: NEELA SANTOSH
+
+
+## This project demonstrates how to securely configure an Amazon S3 bucket using IAM policies, encryption, and access restrictions, as part of a cloud security task for CodTech Internship.
 
 ## ✅ What Was Implemented
 
